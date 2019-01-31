@@ -9,9 +9,9 @@
 
 ### Tech Requirements
 #### - HTML
-#### - Javascript
-#### - CSS
-#### - Bootstrap
+     - Javascript
+     - CSS
+     - Bootstrap
 
 ### Author with link to homepage
 
