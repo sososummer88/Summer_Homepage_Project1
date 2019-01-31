@@ -1,15 +1,15 @@
 # Fang Hong_Personal Page
-## Project Objective
+### Project Objective
 
-## Screenshot
+### Screenshot
 
-## Tech Requirements
+### Tech Requirements
 
-## Author with link to homepage
+### Author with link to homepage
 
-## Reference to the class with link
+### Reference to the class with link
 
-## Link to the Video Demonstration
+### Link to the Video Demonstration
 
 
-## use github markdown
+### use github markdown
