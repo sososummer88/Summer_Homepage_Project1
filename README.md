@@ -20,7 +20,7 @@
 #### For more information about the class, please go to this page: http://johnguerra.co/classes/webDevelopment_spring_2019/
 
 ### Link to the Video Demonstration
-#### Please click the following link to watch the video demostration:
+#### Please click the following link to watch the video demostration: https://www.youtube.com/watch?v=5Qzfuy_HOb8&feature=youtu.be
 
 
 ### License
