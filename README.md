@@ -6,7 +6,7 @@
 ##### The purpose of this project is to practice our web development skill that we learned from class and get familiar with web development process.
 
 ### Screenshot
-
+![screenshot](https://user-images.githubusercontent.com/33298902/52034341-13cbb380-24dd-11e9-9cc2-52022f13fbc3.jpg)
 ### Tech Requirements
      - HTML
      - Javascript
