@@ -14,10 +14,14 @@
      - Bootstrap
 
 ### Author with link to homepage
+#### Please click the following link to my personal website: https://sososummer88.github.io/
 
-### Reference to the class with link
+### Reference to the class with link:
+#### For more information about the class, please go to this page: http://johnguerra.co/classes/webDevelopment_spring_2019/
 
 ### Link to the Video Demonstration
+#### Please click the following link to watch the video demostration:
 
 
-### use github markdown
+### License
+#### This repository is under MIT license.
