@@ -1,0 +1,19 @@
+Code Review for Fang Hong
+Reviewer: James Borzillieri
+
+The website is visually attractive, and there was good thought put into the design. There were a few issues though.
+
+-Image references were often missing "alt==" tags. This is important for a few reasons:
+  1. Readability's sake. Images do not always have intuitive names. This helps developers keep track of changes to site
+  resources and prevents ocnfusion if that resource becomes unavailable.
+  2. This helps the user understand what they are looking at in the event of a rendering failure.
+  3. Most importantly, this tag is used to help blind people navigate the web. It allows them to interact with the web in a 
+     way that would not be achieveable without attention to this detail.
+     
+-The four images you used on your skills page (Java, Python, SPSS, R) begin to overlap with your tabs past the medium breakpoint.
+ Consider a different format (single column) sor smaller screens.
+ 
+ -There are a number of issues that arise on the W3 validator for your site (many having to do with the missing "alt" tags in your image 
+  references. See them here : https://validator.w3.org/nu/?doc=https%3A%2F%2Fsososummer88.github.io%2F
+  
+Other than that, I enjoyed reviewing your site. Good work!    
