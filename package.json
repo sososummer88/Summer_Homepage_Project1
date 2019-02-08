@@ -1,0 +1,22 @@
+{
+  "name": "nodeexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sososummer88/Summer_Homepage_Project1.git"
+  },
+  "author": "Fang Hong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sososummer88/Summer_Homepage_Project1/issues"
+  },
+  "homepage": "https://github.com/sososummer88/Summer_Homepage_Project1#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
